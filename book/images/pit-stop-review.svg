@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" role="img" aria-labelledby="title desc">
+  <title id="title">The pit-stop principle for human review</title>
+  <desc id="desc">An AI-assisted work car moves around a track with automated checks running, then enters a marked human-review pit lane for deliberate inspection before continuing as a versioned result.</desc>
+  <rect width="960" height="470" fill="#f5f7f8"/>
+  <text x="480" y="44" text-anchor="middle" fill="#23343a" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2">AUTOMATION KEEPS RUNNING. PEOPLE INSPECT AT THE PIT STOP.</text>
+  <path d="M110 195 C110 100 275 80 455 92 C650 104 842 103 850 205 C860 320 696 350 498 344 C310 338 118 330 110 230 Z" fill="none" stroke="#34454b" stroke-width="18"/>
+  <path d="M130 195 C130 115 285 101 455 111 C630 122 822 120 830 205 C838 302 680 328 498 324 C318 320 138 315 130 230" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="12 12"/>
+  <path d="M130 224 C135 290 318 304 498 307 C680 310 810 289 830 224" fill="none" stroke="#3c765b" stroke-width="11"/>
+  <path d="M282 110 C338 101 395 101 455 105" fill="none" stroke="#4b7fb8" stroke-width="7"/>
+  <path d="M455 105L436 96V114Z" fill="#4b7fb8"/>
+  <path d="M730 122 C787 137 820 160 828 190" fill="none" stroke="#4b7fb8" stroke-width="7"/>
+  <path d="M828 190L817 173L836 174Z" fill="#4b7fb8"/>
+  <g transform="translate(430 66)">
+    <path d="M0 17 L18 4 H69 L88 17 L83 37 H5 Z" fill="#e06b42" stroke="#23343a" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M23 7H60L70 17H15Z" fill="#d9edf2" stroke="#23343a" stroke-width="2"/>
+    <circle cx="20" cy="38" r="8" fill="#23343a"/>
+    <circle cx="69" cy="38" r="8" fill="#23343a"/>
+  </g>
+  <rect x="352" y="125" width="220" height="64" rx="10" fill="#e8f1ff" stroke="#4b7fb8" stroke-width="2"/>
+  <text x="462" y="151" text-anchor="middle" fill="#17365d" font-family="Arial, sans-serif" font-size="16" font-weight="700">AUTOMATED CHECKS</text>
+  <text x="462" y="174" text-anchor="middle" fill="#17365d" font-family="Arial, sans-serif" font-size="14">repeatable signals</text>
+  <rect x="610" y="244" width="245" height="72" rx="10" fill="#fff3d9" stroke="#a97718" stroke-width="3"/>
+  <text x="732" y="273" text-anchor="middle" fill="#63460e" font-family="Arial, sans-serif" font-size="17" font-weight="700">HUMAN PIT STOP</text>
+  <text x="732" y="297" text-anchor="middle" fill="#63460e" font-family="Arial, sans-serif" font-size="14">inspect meaning, truth, context</text>
+  <path d="M850 224H906V352H661V318" fill="none" stroke="#a97718" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M661 318L651 336H671Z" fill="#a97718"/>
+  <rect x="75" y="250" width="195" height="67" rx="10" fill="#e8f6ef" stroke="#39805a" stroke-width="2"/>
+  <text x="172" y="278" text-anchor="middle" fill="#194d32" font-family="Arial, sans-serif" font-size="16" font-weight="700">VERSIONED RESULT</text>
+  <text x="172" y="300" text-anchor="middle" fill="#194d32" font-family="Arial, sans-serif" font-size="14">traceable and recoverable</text>
+  <text x="477" y="405" text-anchor="middle" fill="#52636a" font-family="Arial, sans-serif" font-size="16">Not every lap needs a stop. Important moments deserve deliberate inspection.</text>
+</svg>

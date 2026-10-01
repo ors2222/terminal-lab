@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 390" role="img" aria-labelledby="title desc">
+  <title id="title">Three questions that guide a creative brief</title>
+  <desc id="desc">Persuasion asks what response to enable, archetype asks what meaning to express, and design language asks how that meaning should look and feel. Together they guide a creative brief.</desc>
+  <rect width="960" height="390" fill="#f7f7f2"/>
+  <text x="480" y="45" text-anchor="middle" fill="#23343a" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">THREE QUESTIONS, ONE CREATIVE DIRECTION</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="55" y="95" width="250" height="185" rx="14" fill="#e8f1ff" stroke="#3568a8" stroke-width="3"/>
+    <text x="180" y="137" text-anchor="middle" fill="#17365d" font-size="25" font-weight="700">Persuasion</text>
+    <text x="180" y="180" text-anchor="middle" fill="#17365d" font-size="18">What response are we</text>
+    <text x="180" y="207" text-anchor="middle" fill="#17365d" font-size="18">trying to enable?</text>
+    <text x="180" y="250" text-anchor="middle" fill="#3568a8" font-size="14" letter-spacing="1">RESPONSE</text>
+
+    <rect x="355" y="95" width="250" height="185" rx="14" fill="#e8f6ef" stroke="#39805a" stroke-width="3"/>
+    <text x="480" y="137" text-anchor="middle" fill="#194d32" font-size="25" font-weight="700">Archetype</text>
+    <text x="480" y="180" text-anchor="middle" fill="#194d32" font-size="18">What meaning or identity</text>
+    <text x="480" y="207" text-anchor="middle" fill="#194d32" font-size="18">are we expressing?</text>
+    <text x="480" y="250" text-anchor="middle" fill="#39805a" font-size="14" letter-spacing="1">MEANING</text>
+
+    <rect x="655" y="95" width="250" height="185" rx="14" fill="#fff3d9" stroke="#a97718" stroke-width="3"/>
+    <text x="780" y="137" text-anchor="middle" fill="#63460e" font-size="25" font-weight="700">Design language</text>
+    <text x="780" y="180" text-anchor="middle" fill="#63460e" font-size="18">How should it look</text>
+    <text x="780" y="207" text-anchor="middle" fill="#63460e" font-size="18">and feel?</text>
+    <text x="780" y="250" text-anchor="middle" fill="#a97718" font-size="14" letter-spacing="1">EXPRESSION</text>
+  </g>
+  <g fill="none" stroke="#52636a" stroke-width="3">
+    <path d="M305 187H345"/>
+    <path d="M355 187L342 179V195Z" fill="#52636a" stroke="none"/>
+    <path d="M605 187H645"/>
+    <path d="M655 187L642 179V195Z" fill="#52636a" stroke="none"/>
+    <path d="M180 280V320H780V280"/>
+  </g>
+  <rect x="355" y="303" width="250" height="55" rx="27" fill="#23343a"/>
+  <text x="480" y="338" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="19" font-weight="700">CREATIVE BRIEF</text>
+</svg>
