@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Explorer campaign: take the long way</title>
+  <desc id="desc">A person in a plain white T-shirt walks along a winding path through open hills beneath a wide sky.</desc>
+  <rect width="960" height="500" fill="#dceaf0"/>
+  <circle cx="790" cy="105" r="43" fill="#f5c66c"/>
+  <path d="M0 285 Q180 160 370 270 T730 250 T960 220 V500 H0Z" fill="#95b7a1"/>
+  <path d="M0 350 Q210 230 420 335 T790 315 T960 280 V500 H0Z" fill="#587d70"/>
+  <path d="M510 500 Q450 420 515 363 Q565 320 518 278" fill="none" stroke="#e8d7b5" stroke-width="48"/>
+  <path d="M510 500 Q450 420 515 363 Q565 320 518 278" fill="none" stroke="#f6eddc" stroke-width="3" stroke-dasharray="5 12"/>
+  <g stroke="#233d43" stroke-width="5" stroke-linejoin="round">
+    <circle cx="520" cy="177" r="25" fill="#c88761" stroke="none"/>
+    <path d="M494 225 L511 205 L530 205 L549 225 L568 252 L550 265 L540 249 L542 318 L492 318 L499 249 L485 265 L468 253 Z" fill="#fff"/>
+    <path d="M495 316 L519 316 L508 397 L483 397 Z" fill="#334b55"/>
+    <path d="M519 316 L541 316 L563 390 L539 397 Z" fill="#334b55"/>
+    <path d="M483 397 L508 397 M539 397 L563 390" fill="none"/>
+    <path d="M503 215 Q520 231 538 215" fill="none" stroke-width="3"/>
+  </g>
+  <path d="M0 454 H960" stroke="#e8d7b5" stroke-width="2" opacity=".75"/>
+  <text x="48" y="65" fill="#233d43" font-family="Arial, sans-serif" font-size="18" letter-spacing="4">A WHITE TEE, AN OPEN DAY</text>
+  <text x="48" y="112" fill="#233d43" font-family="Arial, sans-serif" font-size="42" font-weight="700">Take the long way.</text>
+</svg>

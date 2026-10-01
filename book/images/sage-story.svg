@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Sage campaign: the white tee, clearly</title>
+  <desc id="desc">A plain white T-shirt is presented simply on a pale background with aligned labels and a quiet grid.</desc>
+  <rect width="960" height="500" fill="#f8f8f5"/>
+  <g stroke="#dce1df" stroke-width="1">
+    <path d="M80 70V440 M280 70V440 M480 70V440 M680 70V440 M880 70V440"/>
+    <path d="M80 100H880 M80 200H880 M80 300H880 M80 400H880"/>
+  </g>
+  <g fill="#263b40" font-family="Arial, sans-serif">
+    <text x="105" y="82" font-size="14" letter-spacing="3">PRODUCT / 01</text>
+    <text x="105" y="145" font-size="32" font-weight="700">The white tee,</text>
+    <text x="105" y="183" font-size="32" font-weight="700">clearly.</text>
+    <text x="105" y="350" font-size="15" letter-spacing="2">PLAIN WHITE T-SHIRT</text>
+    <text x="105" y="378" font-size="14" fill="#59696b">See the details. Make your choice.</text>
+    <text x="105" y="425" font-size="12" letter-spacing="2">NO EXTRA STORY REQUIRED</text>
+  </g>
+  <path d="M555 163 L610 125 L653 145 L696 125 L751 163 L724 223 L700 207 L700 362 L607 362 L607 207 L582 223 Z" fill="#fff" stroke="#263b40" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M634 142 Q653 164 673 142" fill="none" stroke="#263b40" stroke-width="3"/>
+  <path d="M480 70V440" stroke="#263b40" stroke-width="2"/>
+  <text x="818" y="425" fill="#59696b" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">01—01</text>
+</svg>

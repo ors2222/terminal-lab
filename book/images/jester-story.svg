@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Jester campaign: a shirt with many dramatic entrances</title>
+  <desc id="desc">Three colorful comic panels show the same plain white T-shirt entering a kitchen, a video call, and plant-watering duty with theatrical flair.</desc>
+  <rect width="960" height="500" fill="#fff6dc"/>
+  <text x="48" y="65" fill="#282640" font-family="Arial Black, Arial, sans-serif" font-size="34" font-weight="900">A SHIRT. MANY DRAMATIC ENTRANCES.</text>
+  <g stroke="#282640" stroke-width="3">
+    <rect x="48" y="105" width="270" height="335" rx="14" fill="#ffc857"/>
+    <rect x="345" y="105" width="270" height="335" rx="14" fill="#a9e5e2"/>
+    <rect x="642" y="105" width="270" height="335" rx="14" fill="#f5a7b8"/>
+  </g>
+  <g fill="#282640" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="183" y="145" font-size="17" letter-spacing="2">KITCHEN!</text>
+    <text x="480" y="145" font-size="17" letter-spacing="2">VIDEO CALL!</text>
+    <text x="777" y="145" font-size="17" letter-spacing="2">PLANT DUTY!</text>
+  </g>
+  <g stroke="#282640" stroke-width="4" stroke-linejoin="round">
+    <path d="M122 226 L158 201 L183 212 L208 201 L244 226 L226 263 L211 252 L211 337 L151 337 L151 252 L136 263 Z" fill="#fff"/>
+    <path d="M169 210 Q183 225 197 210" fill="none" stroke-width="2"/>
+    <path d="M419 226 L455 201 L480 212 L505 201 L541 226 L523 263 L508 252 L508 337 L448 337 L448 252 L433 263 Z" fill="#fff"/>
+    <path d="M466 210 Q480 225 494 210" fill="none" stroke-width="2"/>
+    <path d="M716 226 L752 201 L777 212 L802 201 L838 226 L820 263 L805 252 L805 337 L745 337 L745 252 L730 263 Z" fill="#fff"/>
+    <path d="M763 210 Q777 225 791 210" fill="none" stroke-width="2"/>
+  </g>
+  <g fill="none" stroke="#282640" stroke-width="4" stroke-linecap="round">
+    <path d="M97 183L84 168 M263 185L278 169 M393 185L380 168 M563 185L578 169 M690 185L677 168 M860 185L875 169"/>
+  </g>
+  <g fill="#282640" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+    <text x="183" y="390">CUT TO: THE FRIDGE</text>
+    <text x="480" y="390">LIVE FROM THE SOFA</text>
+    <text x="777" y="390">A VERY GREEN SCENE</text>
+  </g>
+</svg>
